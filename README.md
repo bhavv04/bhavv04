@@ -43,7 +43,7 @@
 ## 🎵 Fun Facts
 
 - I love to work out, read fiction books, play the guitar & mountain cycling.
-- My favorite song currently: https://open.spotify.com/track/4TGY1Z7HIA0fnQYdaKEXlJ?si=b84a00ef236d4f07.
+- My favorite song currently: [Jimmy The Chameleon by Brookside]([https://your-link.com](https://open.spotify.com/track/4TGY1Z7HIA0fnQYdaKEXlJ?si=b84a00ef236d4f07.))
 
 Feel free to explore my repositories and reach out if you have any questions or just want to chat!
 
