@@ -1,4 +1,4 @@
-#Hello World 👋
+## 👋 Hello World 
 
 I'm Bhavdeep Arora, a passionate Computer Science Student from Toronto.
 
