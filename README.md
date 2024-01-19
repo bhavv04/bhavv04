@@ -21,10 +21,6 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat)
 
-## 🚀 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhav2134&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
-
 ## 🌱 I'm Currently Learning
 
 - Exploring advanced topics in React.js
@@ -39,6 +35,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavdeeparora/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://www.your-portfolio.com/)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/voqjcf69la8ee2r7pq3cfp7j2)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/bhavv004/)
+[![Chess.com](https://img.shields.io/badge/Chess.com-44BFC7?style=flat&logo=chess&logoColor=white)](https://www.chess.com/member/https://www.chess.com/member/bhavisbadatchess)
+
 
 ## 🎵 Fun Facts
 
