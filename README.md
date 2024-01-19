@@ -1,8 +1,6 @@
 ## 👋 Hello World 
 
-I'm Bhavdeep Arora, a passionate Computer Science Student from Toronto.
-
-## 🔧 Technologies & Tools
+**I'm Bhavdeep Arora, a passionate Computer Science Student from Toronto.**
 
 ## 🔧 Technologies & Tools
 
