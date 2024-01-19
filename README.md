@@ -36,5 +36,4 @@ I'm Bhavdeep Arora, a passionate Computer Science Student from Toronto.
 
 Feel free to explore my repositories and reach out if you have any questions or just want to chat!
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=bhav2134.bhav2134)
 
