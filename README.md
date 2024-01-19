@@ -27,9 +27,9 @@ I'm Bhavdeep Arora, a passionate Computer Science Student from Toronto.
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavdeeparora/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?logo=google-chrome&logoColor=white)](https://www.bhavdeeparora.com/)
+[![Portfolio](https://icons.iconarchive.com/icons/pino/calvin/32/Hobbes-1-icon.png)](https://www.bhavdeeparora.com/)
 
-## 🎉 Fun Facts
+##  Fun Facts
 
 - I love to Work Out, Read fiction books, play the guitar, mountain cycling.
 - My favorite song currently: https://open.spotify.com/track/4TGY1Z7HIA0fnQYdaKEXlJ?si=b84a00ef236d4f07.
