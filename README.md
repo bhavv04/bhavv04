@@ -74,6 +74,7 @@
 
 - I love to work out, read fiction books, play the guitar, playing chess & mountain cycling.
 - My favorite song currently: [Jimmy The Chameleon by Brookside](https://open.spotify.com/track/4TGY1Z7HIA0fnQYdaKEXlJ?si=b84a00ef236d4f07)
+- My favorite book currently: [Scythe by Neal Shusterman ](https://www.goodreads.com/book/show/28954189-scythe)
 
 Feel free to explore my repositories and reach out if you have any questions or just want to chat!
 
