@@ -77,8 +77,7 @@
 ## 🎵 Fun Facts
 
 - I love to work out, read fiction books, play the guitar, play chess & cycle down mountainous terrains.
-- My favorite song currently: [Jimmy The Chameleon by Brookside](https://open.spotify.com/track/4TGY1Z7HIA0fnQYdaKEXlJ?si=b84a00ef236d4f07)
-- My favorite book currently: [Scythe by Neal Shusterman ](https://www.goodreads.com/book/show/28954189-scythe)
+- Book I am Currently Reading: [Way of Kings by Brandon Sanderson](https://www.goodreads.com/en/book/show/7235533)
 
 Feel free to explore my repositories and reach out if you have any questions or want to chat!
 
