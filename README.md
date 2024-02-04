@@ -1,4 +1,7 @@
 
+![image](https://github.com/bhav2134/bhav2134/assets/72461610/491f442b-4828-41b8-9c38-67d81ed86d11)
+
+
 ## 👋 Hello World 
 
 **I'm Bhavdeep Arora, a passionate Computer Science Student in my second year at Toronto Metropolitan University.**
