@@ -71,13 +71,12 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavdeeparora/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://www.bhavdeeparora.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/bhavv004/)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/voqjcf69la8ee2r7pq3cfp7j2)
 
 
 ## 🎵 Fun Facts
 
 - I love to work out, read fiction books, play the guitar, play chess & cycle down mountainous terrains.
-- Book I am Currently Reading: [Way of Kings by Brandon Sanderson](https://www.goodreads.com/en/book/show/7235533)
+- Currently Reading: [Way of Kings by Brandon Sanderson](https://www.goodreads.com/en/book/show/7235533)
 
 Feel free to explore my repositories and reach out if you have any questions or want to chat!
 
