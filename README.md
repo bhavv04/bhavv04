@@ -67,7 +67,7 @@
 - Studying design principles for creating better user interfaces
 - Learning the language GO. 
 
-<h1><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="50"/> Let's Connect </h1>
+<h1><img src="https://media.tenor.com/6ph1w40DrykAAAAi/handshake-joypixels.giff" width="25"/> Let's Connect </h1>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavdeeparora/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://www.bhavdeeparora.com/)
