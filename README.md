@@ -2,11 +2,12 @@
 ![image](https://github.com/bhav2134/bhav2134/assets/72461610/491f442b-4828-41b8-9c38-67d81ed86d11)
 
 
-## 👋 Hello World 
+<h1><img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDcwNzc3ODUsIm5iZiI6MTcwNzA3NzQ4NSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjA0VDIwMTEyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE3YjhiN2Y3MmVkNjYwYjljMjU3NTU3NjVkYzQ4Y2MzODU1ZTVlN2RjMDBhMTUxODdmYTBkNThmM2NkMjQ5NDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.YGs21foZgSY_Q9uJNdyKctAdFXAgX96PpRI3AHUrrGE" width="25"/> Hello World! </h1>
+
 
 **I'm Bhavdeep Arora, a passionate Computer Science Student in my second year at Toronto Metropolitan University.**
 
-## 🔧 Technologies & Tools
+<h1><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"/> Technologies & Skills </h1>
 
 <h3>👨‍💻 Programming and Markup Languages</h3>
 
@@ -56,7 +57,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white)
 
 
-## 🌱 I'm Currently Learning
+<h1><img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="25"/> I'm Currently Learning </h1>
 
 - Exploring advanced topics in React.js
 - Diving deep into machine learning with Python
@@ -66,14 +67,14 @@
 - Studying design principles for creating better user interfaces
 - Learning the language GO. 
 
-## 📫 Let's Connect
+<h1><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="50"/> Let's Connect </h1>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavdeeparora/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://www.bhavdeeparora.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/bhavv004/)
 
 
-## 🎵 Fun Facts
+<h1><img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="25"/> Fun Facts </h1>
 
 - I love to work out, read fiction books, play the guitar, play chess & cycle down mountainous terrains.
 - Currently Reading: [Way of Kings by Brandon Sanderson](https://www.goodreads.com/en/book/show/7235533)
