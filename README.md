@@ -2,7 +2,7 @@
 ![image](https://github.com/bhav2134/bhav2134/assets/72461610/491f442b-4828-41b8-9c38-67d81ed86d11)
 
 
-<h1><img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDcwNzg4NzAsIm5iZiI6MTcwNzA3ODU3MCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjA0VDIwMjkzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM4ZjQwMjZhZGQ1Yjk5ZmFjZTQ4MjJjNTQyZjYxNzRkMjQwYWFiMTY0OTM0YzhkY2JkMTdjNTM2YTkyNGYxYTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.J8g9FPNcj8XPB5Uw-JRn4wKrA3v6CGDg34Jxxly0kGQ" width="25"/> Hello World! </h1>
+<h1><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="25"/> Hello World! </h1>
 
 
 <h3>I'm Bhavdeep Arora, a passionate Computer Science Student in my second year at Toronto Metropolitan University.</h3>
