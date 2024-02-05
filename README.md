@@ -57,7 +57,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white)
 
 
-<h1><img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="25"/> I'm Currently Learning </h1>
+<h1><img src="https://i.pinimg.com/originals/5e/5f/cd/5e5fcd2efe9b4eb3bbaace2a02b29185.gif" width="30"/> I'm Currently Learning </h1>
 
 - Exploring advanced topics in React.js
 - Diving deep into machine learning with Python
@@ -74,7 +74,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/bhavv004/)
 
 
-<h1><img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="25"/> Fun Facts </h1>
+<h1><img src="https://media.tenor.com/DMRFgGmyUQQAAAAi/jump-rope-illustration.gif" width="25"/> Fun Facts </h1>
 
 - I love to work out, read fiction books, play the guitar, play chess & cycle down mountainous terrains.
 - Currently Reading: [Way of Kings by Brandon Sanderson](https://www.goodreads.com/en/book/show/7235533)
