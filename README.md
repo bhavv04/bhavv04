@@ -2,12 +2,12 @@
 ![image](https://github.com/bhav2134/bhav2134/assets/72461610/491f442b-4828-41b8-9c38-67d81ed86d11)
 
 
-<h1><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="25"/> Hello World! </h1>
+<h1><img src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" width="50" height="50"/> Hello World! </h1>
 
 
 <h3>I'm Bhavdeep Arora, a passionate Computer Science Student in my second year at Toronto Metropolitan University.</h3>
 
-<h1><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"/> Technologies & Skills </h1>
+<h1><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"/> Technologies & Skills </h1>
 
 <h3>👨‍💻 Programming and Markup Languages</h3>
 
@@ -57,7 +57,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white)
 
 
-<h1><img src="https://i.pinimg.com/originals/5e/5f/cd/5e5fcd2efe9b4eb3bbaace2a02b29185.gif" width="30"/> I'm Currently Learning </h1>
+<h1><img src="https://i.pinimg.com/originals/5e/5f/cd/5e5fcd2efe9b4eb3bbaace2a02b29185.gif" width="50"/> I'm Currently Learning </h1>
 
 - Exploring advanced topics in React.js
 - Diving deep into machine learning with Python
@@ -67,14 +67,14 @@
 - Studying design principles for creating better user interfaces
 - Learning the language GO. 
 
-<h1><img src="https://media.tenor.com/6ph1w40DrykAAAAi/handshake-joypixels.giff" width="25"/> Let's Connect </h1>
+<h1><img src="https://media.tenor.com/6ph1w40DrykAAAAi/handshake-joypixels.giff" width="50"/> Let's Connect </h1>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavdeeparora/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://www.bhavdeeparora.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/bhavv004/)
 
 
-<h1><img src="https://media.tenor.com/DMRFgGmyUQQAAAAi/jump-rope-illustration.gif" width="25"/> Fun Facts </h1>
+<h1><img src="https://media.tenor.com/DMRFgGmyUQQAAAAi/jump-rope-illustration.gif" width="50"/> Fun Facts </h1>
 
 - I love to work out, read fiction books, play the guitar, play chess & cycle down mountainous terrains.
 - Currently Reading: [Way of Kings by Brandon Sanderson](https://www.goodreads.com/en/book/show/7235533)
