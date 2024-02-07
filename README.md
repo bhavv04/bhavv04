@@ -1,7 +1,4 @@
 
-![image](https://github.com/bhav2134/bhav2134/assets/72461610/491f442b-4828-41b8-9c38-67d81ed86d11)
-
-
 <h1><img src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" width="25" /> Hello World! </h1>
 
 
