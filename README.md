@@ -74,7 +74,7 @@
 <h1><img src="https://media.tenor.com/DMRFgGmyUQQAAAAi/jump-rope-illustration.gif" width="25"/> A little bit More About Me </h1>
 
 - I love to work out, read fiction books, play the guitar, play chess & cycle down mountainous terrains.
-- Currently Reading: [Way of Kings by Brandon Sanderson](https://www.goodreads.com/en/book/show/7235533)
+- Currently Reading: [The Final Empire, The Mistborn Saga #1 by Brandon Sanderson](https://www.goodreads.com/book/show/68428.The_Final_Empire)
 
 Feel free to explore my repositories and reach out if you have any questions or want to chat!
 
