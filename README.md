@@ -1,4 +1,3 @@
-
 <h1><img src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" width="25" /> Hello World! </h1>
 
 
@@ -78,7 +77,6 @@
 
 Feel free to explore my repositories and reach out if you have any questions or want to chat!
 
-![Profile Views](https://komarev.com/ghpvc/?username=bhav2134&color=brightgreen)
 
 
 
