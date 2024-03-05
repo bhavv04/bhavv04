@@ -1,11 +1,10 @@
 <h1><img src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" width="25" /> Hello World! </h1>
 
-
-<h3>I'm Bhavdeep Arora, a passionate Computer Science Student in my second year at Toronto Metropolitan University.</h3>
+I'm Bhavdeep Arora, a Computer Science Student in my second year at Toronto Metropolitan University.
 
 <h1><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"/> Technologies & Skills </h1>
 
-<h3>👨‍💻 Programming and Markup Languages</h3>
+👨‍💻 Programming and Markup Languages
 
 ![Bash](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)
 ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)
@@ -25,7 +24,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)
 
 
-<h3>🧰 Frameworks and Libraries</h3>
+🧰 Frameworks and Libraries
   
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white)
 ![Discord.py](https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy)
@@ -41,7 +40,7 @@
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white)
 
 
-<h3>🗄️ Databases and Cloud Hosting</h3>
+🗄️ Databases and Cloud Hosting
 
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white)
