@@ -76,6 +76,5 @@ I'm Bhavdeep Arora, a Computer Science Student in my second year at Toronto Metr
 
 Feel free to explore my repositories and reach out if you have any questions or want to chat!
 
-
-
+![](https://komarev.com/ghpvc/?username=bhav2134)
 
