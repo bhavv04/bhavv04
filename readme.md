@@ -4,9 +4,7 @@ I'm Bhavdeep Arora, a Computer Science Student in my second year at Toronto Metr
 
 <h1><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"/> Technologies & Skills </h1>
 
-👨‍💻 Programming and Markup Languages
-
-### Languages
+### 👨‍💻 Programming and Markup Languages
 ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-9C033A.svg?style=for-the-badge&logo=cpp&logoColor=white)
@@ -28,7 +26,7 @@ I'm Bhavdeep Arora, a Computer Science Student in my second year at Toronto Metr
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-### Frameworks and Libraries
+### 🧰 Frameworks and Libraries
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -43,7 +41,7 @@ I'm Bhavdeep Arora, a Computer Science Student in my second year at Toronto Metr
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-### Databases and Cloud Hosting
+### 🗄️ Databases and Cloud Hosting
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
@@ -68,7 +66,7 @@ I'm Bhavdeep Arora, a Computer Science Student in my second year at Toronto Metr
 <h1><img src="https://media.tenor.com/6ph1w40DrykAAAAi/handshake-joypixels.giff" width="25"/> Let's Connect </h1>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavdeeparora/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.bhavdeeparora.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://www.bhavdeeparora.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bhavv004/)
 
 <h1><img src="https://media.tenor.com/DMRFgGmyUQQAAAAi/jump-rope-illustration.gif" width="25"/> A little bit More About Me </h1>
@@ -78,6 +76,6 @@ I'm Bhavdeep Arora, a Computer Science Student in my second year at Toronto Metr
 
 Feel free to explore my repositories and reach out if you have any questions or want to chat!
 
-![](https://komarev.com/ghpvc/?username=bhav2134&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=bhav2134&style=for-the-badge&label=Profile+Visitors)
 
 
