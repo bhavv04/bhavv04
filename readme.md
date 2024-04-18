@@ -5,7 +5,7 @@ I'm Bhavdeep Arora, a Computer Science Student in my second year at Toronto Metr
 # <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"/> Technologies & Skills
 
 ### 👨‍💻 Programming and Markup Languages
-![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Script-121011?&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-9C033A.svg?logo=cpp&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-68217A.svg?logo=c-sharp&logoColor=white)
@@ -66,7 +66,6 @@ I'm Bhavdeep Arora, a Computer Science Student in my second year at Toronto Metr
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavdeeparora/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?&logo=About.me&logoColor=white)](https://www.bhavdeeparora.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bhavv004/)
 
 # <img src="https://media.tenor.com/DMRFgGmyUQQAAAAi/jump-rope-illustration.gif" width="25"/> A little bit More About Me
 
