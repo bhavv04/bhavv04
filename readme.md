@@ -1,6 +1,6 @@
 # <img src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" width="25" /> Hello World!
 
-I'm Bhavdeep Arora, a Computer Science Student in my second year at Toronto Metropolitan University.
+I'm Bhavdeep Arora, a Computer Science Student at Toronto Metropolitan University.
 
 # <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"/> Technologies & Skills
 
@@ -70,7 +70,7 @@ I'm Bhavdeep Arora, a Computer Science Student in my second year at Toronto Metr
 # <img src="https://media.tenor.com/DMRFgGmyUQQAAAAi/jump-rope-illustration.gif" width="25"/> A little bit More About Me
 
 - I love to work out, read fiction books, play the guitar, play chess & cycle down mountainous terrains.
-- Currently Reading: [The Final Empire, The Mistborn Saga #1 by Brandon Sanderson](https://www.goodreads.com/book/show/68428.The_Final_Empire)
+- Currently Reading: [The Well of Ascension, The Mistborn Saga #2 by Brandon Sanderson](https://www.goodreads.com/book/show/68429.The_Well_of_Ascension)
 
 Feel free to explore my repositories and reach out if you have any questions or want to chat!
 
