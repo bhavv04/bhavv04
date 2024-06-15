@@ -55,7 +55,7 @@ I'm Bhavdeep Arora, a Computer Science Student at Toronto Metropolitan Universit
 
 # <img src="https://i.pinimg.com/originals/5e/5f/cd/5e5fcd2efe9b4eb3bbaace2a02b29185.gif" width="25"/> I'm Currently Learning
 
-- Exploring advanced topics in React.js
+- Exploring threejs to make an interactive 3d portfolio 
 - Diving deep into machine learning with Python
 - Improving my problem-solving skills on competitive programming platforms
 - Experimenting with cloud computing on AWS
@@ -69,7 +69,7 @@ I'm Bhavdeep Arora, a Computer Science Student at Toronto Metropolitan Universit
 
 # <img src="https://media.tenor.com/DMRFgGmyUQQAAAAi/jump-rope-illustration.gif" width="25"/> A little bit More About Me
 
-- I love to work out, read fiction books, play the guitar, play chess & cycle down mountainous terrains.
+- I love to work out, play the guitar, cook, play video games, lose at chess, read story books (mainly fantasy genre) & cycle down mountainous terrains.
 - Currently Reading: [The Well of Ascension, The Mistborn Saga #2 by Brandon Sanderson](https://www.goodreads.com/book/show/68429.The_Well_of_Ascension)
 
 Feel free to explore my repositories and reach out if you have any questions or want to chat!
