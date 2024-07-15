@@ -70,7 +70,7 @@ I'm Bhavdeep Arora, a Computer Science Student at Toronto Metropolitan Universit
 # <img src="https://media.tenor.com/DMRFgGmyUQQAAAAi/jump-rope-illustration.gif" width="25"/> A little bit More About Me
 
 - I love working out, playing the guitar, playing video games, cooking, cycling down mountainous terrains, and reading fiction books.
-- Currently Reading: [The Well of Ascension, The Mistborn Saga #2 by Brandon Sanderson](https://www.goodreads.com/book/show/68429.The_Well_of_Ascension)
+- Currently Reading: [The Song of Achilles by Madeline Miller](https://www.goodreads.com/book/show/13623848-the-song-of-achilles)
 
 Feel free to explore my repositories and reach out if you have any questions or want to chat!
 
