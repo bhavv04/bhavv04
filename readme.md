@@ -64,9 +64,9 @@ I'm Bhavdeep Arora, a Computer Science Student at Toronto Metropolitan Universit
 
 # <img src="https://media.tenor.com/6ph1w40DrykAAAAi/handshake-joypixels.giff" width="25"/> Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavdeeparora/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavdeeparora/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?&logo=About.me&logoColor=white)](https://www.bhavdeeparora.com/)
-[![Goodreads](https://img.shields.io/badge/-Goodreads-D7C4B2?style=flat&logo=goodreads&logoColor=382110)]([https://www.goodreads.com/user/show/your_profile_id](https://www.goodreads.com/user/show/168947482-bhav))
+[![Goodreads](https://img.shields.io/badge/Goodreads-D7C4B2?style=flat&logo=goodreads&logoColor=382110)]([https://www.goodreads.com/user/show/your_profile_id](https://www.goodreads.com/user/show/168947482-bhav))
 # <img src="https://media.tenor.com/DMRFgGmyUQQAAAAi/jump-rope-illustration.gif" width="25"/> A little bit More About Me
 
 - I love working out, playing the guitar, playing video games, cooking, cycling down mountainous terrains, and reading fiction books.
