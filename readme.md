@@ -66,5 +66,5 @@ I'm Bhavdeep Arora, a Computer Science Student at Toronto Metropolitan Universit
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavdeeparora/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?&logo=Web&logoColor=white)](https://bhavdeeparora.vercel.app/)
-
+# 
 ![](https://komarev.com/ghpvc/?username=bhav2134&label=Profile+Visitors)
