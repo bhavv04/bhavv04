@@ -66,5 +66,10 @@ I'm Bhavdeep Arora, a Computer Science Student at Toronto Metropolitan Universit
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavdeeparora/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?&logo=Web&logoColor=white)](https://bhavdeeparora.vercel.app/)
-# 
+
+# <img src="https://media.tenor.com/DMRFgGmyUQQAAAAi/jump-rope-illustration.gif" width="25"/> A little bit More About Me
+- I love reading books and playing rugby.
+
+Feel free to explore my repositories and reach out if you have any questions or want to chat!
+
 ![](https://komarev.com/ghpvc/?username=bhav2134&label=Profile+Visitors)
