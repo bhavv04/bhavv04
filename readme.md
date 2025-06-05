@@ -4,7 +4,8 @@ Bhavdeep Arora - Developer Profile
 
 .section .data
     msg: .ascii "Hello World! 👋
-          I'm Bhavdeep Arora, a Computer Science Student at Toronto Metropolitan University. Welcome to my GitHub profile! 🚀
+          I'm Bhavdeep Arora, a Computer Science Student at Toronto Metropolitan University.
+          Welcome to my GitHub profile! 🚀
           Feel free to explore my repositories."
 
 .section .text
