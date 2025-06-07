@@ -1,29 +1,34 @@
-```
-Bhavdeep Arora - Developer Profile
-; Assembly x86-64
+```assembly
+section .data
+    name        db "Bhavdeep Arora", 0
+    role        db "Inspiring Embedded system Security Engineer", 0
+    status      db "Ready to code", 0
+    skills      db "C/C++, Assembly, Python, Rust", 0
 
-.section .data
-    msg: .ascii "Hello World! 👋
-          I'm Bhavdeep Arora, a Computer Science Student at Toronto Metropolitan University.
-          Welcome to my GitHub profile! 🚀
-          Feel free to explore my repositories."
-
-.section .text
-.global _start
+section .text
+    global _start
 
 _start:
-    ; Print message
-    mov $1, %rax        ; sys_write
-    mov $1, %rdi        ; stdout
-    mov $msg, %rsi      ; message
-    mov $155, %rdx      ; message length
-    syscall
+    ; Load developer profile
+    mov eax, name
+    mov ebx, role
+    mov ecx, skills
     
-    ; Exit
-    mov $60, %rax       ; sys_exit
-    mov $0, %rdi        ; status
-    syscall
+    ; Execute main routine
+    call display_info
+    call show_stats
+    
+    ; Contact info
+    push "github.com/username"
+    push "your.email@domain.com"
+    call contact
+    
+    ; Exit successfully
+    mov eax, 1
+    mov ebx, 0
+    int 0x80
 
-; Compile: as -64 profile.s -o profile.o && ld profile.o -o profile
-; Run: ./profile
+; EOF - profile.asm
+
 ```
+
