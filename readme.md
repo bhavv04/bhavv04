@@ -19,8 +19,7 @@ _start:
     call show_stats
     
     ; Contact info
-    push "github.com/username"
-    push "your.email@domain.com"
+    push "bhavdeepsa@gmail.com"
     call contact
     
     ; Exit successfully
