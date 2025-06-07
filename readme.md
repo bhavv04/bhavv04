@@ -2,7 +2,7 @@
 section .data
     name        db "Bhavdeep Arora", 0
     role        db "Inspiring Embedded System Security Engineer", 0
-    status      db "Student At Toronto Metropolitan University (Formerly Ryerson University", 0
+    status      db "Student At Toronto Metropolitan University (Formerly Ryerson University)", 0
     skills      db "C/C++, Assembly, Python, Rust, Linux Kernel", 0
 
 section .text
