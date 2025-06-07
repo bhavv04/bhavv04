@@ -1,9 +1,9 @@
 ```assembly
 section .data
     name        db "Bhavdeep Arora", 0
-    role        db "Inspiring Embedded system Security Engineer", 0
-    status      db "Ready to code", 0
-    skills      db "C/C++, Assembly, Python, Rust", 0
+    role        db "Inspiring Embedded System Security Engineer", 0
+    status      db "Student At Toronto Metropolitan University (Formerly Ryerson University", 0
+    skills      db "C/C++, Assembly, Python, Rust, Linux Kernel", 0
 
 section .text
     global _start
