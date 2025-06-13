@@ -1,33 +1,35 @@
-```assembly
-section .data
-    name        db "Bhavdeep Arora", 0
-    role        db "Inspiring Embedded System Security Engineer", 0
-    status      db "Student At Toronto Metropolitan University (Formerly Ryerson University)", 0
-    skills      db "C/C++, Assembly, Python, Rust, Linux Kernel", 0
+```c
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 
-section .text
-    global _start
+typedef struct {
+    char name[32];
+    char stack[128];
+    char learning[64];
+    int commits_today;
+} developer_t;
 
-_start:
-    ; Load developer profile
-    mov eax, name
-    mov ebx, role
-    mov ecx, skills
+void init_developer(developer_t *dev) {
+    strcpy(dev->name, "Bhavdeep Arora");
+    strcpy(dev->stack, "C, Rust, Assembly, Python");
+    strcpy(dev->learning, "Kernel Development");
+    dev->commits_today = 5;
+}
+
+void ship_code(developer_t *dev) {
+    printf("Shipping from %p\n", (void*)dev);
+    dev->commits_today++;
+}
+
+int main() {
+    developer_t me;
+    init_developer(&me);
     
-    ; Execute main routine
-    call display_info
-    call show_stats
+    while (1) {
+        ship_code(&me);
+    }
     
-    ; Contact info
-    push "bhavdeepsa@gmail.com"
-    call contact
-    
-    ; Exit successfully
-    mov eax, 1
-    mov ebx, 0
-    int 0x80
-
-; EOF - profile.asm
-
+    return 0; // never reached
+}
 ```
-
