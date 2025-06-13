@@ -5,7 +5,7 @@
 
 name:   .byte "Bhavdeep Arora"
 stack:  .byte "C, Assembly, Python, Java, Kernel"
-interest:  .byte "Embeeded System Security"
+focus:  .byte "Embeeded System Security"
 email:  .byte "bhavdeepsa@gmail.com"
 
 start:  lda #$00        ; load accumulator with 0
