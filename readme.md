@@ -1,23 +1,23 @@
-```c
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
+```assembly
+; 6502 Assembly - Developer Profile
 
-typedef struct {
-    char name[32];
-    char stack[128];
-    char contact[128];
-} developer_t;
+        .org $1000
 
-void init_developer(developer_t *dev) {
-    strcpy(dev->name, "Bhavdeep Arora");
-    strcpy(dev->stack, "C, Rust, Assembly, Python, Java");
-    strcpy(dev->contact, "bhavdeepsa@gmail.com");
-}
-int main() {
-    developer_t me;
-    init_developer(&me);
-    
-    return 0; 
-}
+name:   .byte "Bhavdeep Arora"
+stack:  .byte "C, Assembly, Python, Java, Kernel"
+interest:  .byte "Embeeded System Security"
+email:  .byte "bhavdeepsa@gmail.com"
+
+start:  lda #$00        ; load accumulator with 0
+        tax             ; transfer to X (commit counter)
+
+ship:   inx             ; increment commits
+        txa             ; transfer X to A
+        cmp #$FF        ; compare with 255 (max 8-bit)
+        beq done        ; branch if equal (overflow!)
+        jmp ship        ; jump back to ship
+
+done:   brk             ; break (we've shipped enough)
+
+; EOF - End Of File
 ```
