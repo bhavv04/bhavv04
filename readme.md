@@ -1,23 +1,27 @@
 ```assembly
-; 6502 Assembly - Developer Profile
+section .data
+    name         db "Bhavdeep Arora", 0
+    focus        db "Inspiring Embedded System Security Engineer", 0
+    skills       db "C/C++, Assembly, Python, Rust", 0
+    contact      db "bhavdeepsa@gmail.com", 0
 
-        .org $1000
+section .text
+    global _start
 
-name:   .byte "Bhavdeep Arora"
-stack:  .byte "C, Assembly, Python, Java, Kernel"
-focus:  .byte "Embeeded System Security"
-email:  .byte "bhavdeepsa@gmail.com"
+_start:
+    ; Load developer profile
+    mov eax, name
+    mov ebx, role
+    mov ecx, skills
+    
+    ; Execute main routine
+    call display_info
+    call show_stats
+    
+    ; Exit successfully
+    mov eax, 1
+    mov ebx, 0
+    int 0x80
 
-start:  lda #$00        ; load accumulator with 0
-        tax             ; transfer to X (commit counter)
-
-ship:   inx             ; increment commits
-        txa             ; transfer X to A
-        cmp #$FF        ; compare with 255 (max 8-bit)
-        beq done        ; branch if equal (overflow!)
-        jmp ship        ; jump back to ship
-
-done:   brk             ; break (we've shipped enough)
-
-; EOF - End Of File
+; EOF - profile.asm
 ```
