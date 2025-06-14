@@ -11,7 +11,7 @@ section .text
 _start:
     ; Load developer profile
     mov eax, name
-    mov ebx, role
+    mov ebx, focus
     mov ecx, skills
     
     ; Execute main routine
