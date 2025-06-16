@@ -1,4 +1,4 @@
-# <img src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" width="25" /> hello world!
+# <img src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" width="25" /> Elen sila lumenn' omentielvo!
 Computer Science Student @ Toronto Metropolitan University
 
 ```javascript
