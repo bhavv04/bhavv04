@@ -6,7 +6,8 @@ Computer Science Student @ Toronto Metropolitan University
 const stack = ['JavaScript', 'Python', 'C/C++', 'Assembly', 'Linux'];
 ```
 
-**Currently:** Reverse engineering IoT firmware 
+**Currently:** Reverse engineering IoT firmware
+
 **Focus:** Embedded System Security/Cybersecurity 
 
 [LinkedIn](https://www.linkedin.com/in/bhavdeeparora/) • [Portfolio](https://bhavdeep.vercel.app/)
