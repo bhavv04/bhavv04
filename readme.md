@@ -12,6 +12,4 @@ const stack = ['JavaScript', 'Python', 'C/C++', 'Assembly', 'Linux'];
 
 [LinkedIn](https://www.linkedin.com/in/bhavdeeparora/) • [Portfolio](https://bhavdeep.vercel.app/)
 
-#
 
-![visits](https://img.shields.io/badge/%20visits%20-%2048896%20-orange?style=flat&labelColor=555&color=orange)
