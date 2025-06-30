@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/TcdpZwYDPlWXC/giphy.gif" width="25" /> Elen sila lumenn' omentielvo!
+# ᚼᛁᛚᛚᚬ × ᛘᛁᛏᚴᛅᚱᛏ
 
 Computer Science Student @ Toronto Metropolitan University
 
