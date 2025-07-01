@@ -1,5 +1,4 @@
-# ᚺᛖᛚᛚᛟ × ᛗᛁᛞᚷᚨᚱᛞ
-
+# ᚼᛁᛚᛚᚬ × ᛘᛁᛏᚴᛅᚱᛏ
 
 Computer Science Student @ Toronto Metropolitan University
 
