@@ -10,6 +10,6 @@ const stack = ['JavaScript', 'Python', 'C/C++', 'Assembly', 'Linux'];
 
 **Focus:** Embedded Systems Programming and DevOps
 
-[LinkedIn](https://www.linkedin.com/in/bhavdeeparora/) • [Portfolio](https://bhavdeep.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/bhavdeeparora/) • [Portfolio](https://bhavdeep.dev/)
 
 
