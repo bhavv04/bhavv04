@@ -1,4 +1,4 @@
-### Hello Midgard
+## Hello Midgard
 
 Computer Science Student @ Toronto Metropolitan University
 
