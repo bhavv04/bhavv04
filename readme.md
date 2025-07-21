@@ -1,12 +1,12 @@
 ## Hello Midgard
 
-Computer Science Student @ Toronto Metropolitan University
+**Computer Science @ Toronto Metropolitan University**
 
-```javascript
-const stack = ['JavaScript', 'Python', 'C/C++', 'Assembly', 'Linux'];
+```c
+const char* stack[] = {"JavaScript", "Python", "C/C++", "Assembly", "Linux"};
 ```
 
-**Currently:** Reverse engineering IoT firmware
+**Currently:** Reverse engineering IoT firmware 
 
 **Focus:** Embedded Systems Programming and DevOps
 
