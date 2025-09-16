@@ -1,15 +1,12 @@
-## Hello Midgard
-
+# Hello Midgard
 **Computer Science @ Toronto Metropolitan University**
 
 ```c
-const char* stack[] = {"JavaScript", "Python", "C/C++", "Assembly", "Linux"};
+const char* stack[] = {"C/C++", "Python", "JavaScript", "Assembly", "Linux"};
 ```
 
-**Currently:** Reverse engineering IoT firmware 
-
-**Focus:** Embedded Systems Programming and DevOps
+**Currently:** Exploring ARM exploitation techniques  
+**Focus:** Embedded systems • DevOps automation  
+**Offline:** Mountain cycling • Rugby • Reading (fantasy & classics) • Woodworking
 
 [LinkedIn](https://www.linkedin.com/in/bhavdeeparora/) • [Portfolio](https://bhavdeep.dev/)
-
-
