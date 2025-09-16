@@ -1,4 +1,4 @@
-# Hello Midgard
+## Hello Midgard
 **Computer Science @ Toronto Metropolitan University**
 
 ```c
