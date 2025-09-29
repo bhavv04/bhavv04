@@ -1,4 +1,3 @@
-## Hello World
 **Computer Science @ Toronto Metropolitan University**
 
 ```c
