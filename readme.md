@@ -1,7 +1,7 @@
 **Computer Science @ Toronto Metropolitan University**
 
 ```c
-const char* stack[] = {"C/C++", "Python", "JavaScript", "Assembly", "Linux"};
+const char* stack[] = {"C/C++", "Python", "Rust", "x86 Assembly", "Linux"};
 ```
 
 **Currently:** Exploring ARM exploitation techniques  
