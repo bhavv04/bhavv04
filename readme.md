@@ -6,7 +6,6 @@ const char* stack[] = {"C/C++", "Python", "Rust", "x86 Assembly", "Linux"};
 ```
 
 **Currently:** Exploring ARM exploitation techniques  
-**Focus:** Embedded systems • DevOps automation • Artificial Intelligence       
-**Offline:** Mountain biking • Rugby • Reading • Woodworking     
+**Focus:** Embedded systems • DevOps automation • Artificial Intelligence      
 
 [LinkedIn](https://www.linkedin.com/in/bhavdeeparora/) • [Portfolio](https://bhavdeep.dev/)
