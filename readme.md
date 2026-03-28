@@ -1,4 +1,4 @@
-**Bhavdeep Arora @ Aspiring Software Engineer**              
+**Bhavdeep Arora 🐻 Aspiring Software Engineer**              
 *Passionate about low-level programming & hardware security*
 
 ```c
