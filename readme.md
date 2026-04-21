@@ -1,12 +1,12 @@
 **Bhavdeep Arora, Aspiring Software Engineer**              
-*Passionate about low-level programming & hardware security*
+*Passionate about low-level systems, security tooling & applied machine learning*
 
 ```c
 const char* stack[] = {"C/C++", "Python", "Rust", "x86/ARM Assembly", "Linux"};
 ```
 
-**Currently**: Exploring ARM exploitation techniques  
-**Focus**: Embedded systems, DevOps automation, Artificial Intelligence  
+**Currently**: Building a proof-of-work bot mitigation middleware from scratch   
+**Focus**: Systems Programming, Artificial Intelligence, Machine Learning & Cybersecurity      
 **Reading**: TCP/IP Illustrated, Volume 1 by W. Richard Stevens  
 **Offline**: Reading, Trekking, Lifting, Woodworking
 
