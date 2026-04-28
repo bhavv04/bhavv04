@@ -5,7 +5,7 @@
 const char* stack[] = {"C/C++", "Python", "Rust", "x86/ARM Assembly", "Linux"};
 ```
 
-**Currently**: Building a proof-of-work bot mitigation middleware from scratch   
+**Currently**: Building *[Thunderhead](https://github.com/bhavv04/thunderhead)*, a proof-of-work bot mitigation middleware from scratch                 
 **Focus**: Systems Programming, Artificial Intelligence, Machine Learning & Cybersecurity      
 **Reading**: TCP/IP Illustrated, Volume 1 by W. Richard Stevens  
 **Offline**: Reading, Trekking, Lifting, Woodworking
