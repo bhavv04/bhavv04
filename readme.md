@@ -2,7 +2,7 @@
 *Focused on low-level systems, security tooling & applied ML*
 
 ```c
-const char* armamentarium[] = {"C/C++", "Python", "Rust", "SQL", "Go"};
+const char* stack[] = {"C/C++", "Python", "Rust", "SQL", "Go"};
 ```
 
 **Currently**: Building [Thunderhead](https://github.com/bhavv04/thunderhead), a proof-of-work bot mitigation middleware               
