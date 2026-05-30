@@ -7,9 +7,8 @@ const char* stack[] = {"C/C++", "Python", "Rust", "SQL", "Go"};
 
 **Currently**: Building [Thunderhead](https://getthunderhead.vercel.app/) a proof-of-work bot mitigation middleware               
 **Focus**: Systems Programming, Artificial Intelligence, Machine Learning & Cybersecurity      
-**Reading**: TCP/IP Illustrated, Volume 1 by W. Richard Stevens  
 **Offline**: Reading, Trekking, Lifting, Rugby, Woodworking
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavdeeparora/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo&logoColor=white)](https://bhavdeep.dev/)
+[LinkedIn](https://www.linkedin.com/in/bhavdeeparora/) • [Portfolio](https://bhavdeep.dev/)
+
 <img width="32" height="32" alt="oneko" src="https://github.com/user-attachments/assets/ccefdabf-0a90-412d-97d2-cbf0618e9766" />
