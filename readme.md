@@ -11,7 +11,3 @@ const char* stack[] = {"C/C++", "Python", "Rust", "SQL", "Go"};
 **Offline**: Reading, Trekking, Lifting, Rugby, Woodworking
 
 [LinkedIn](https://www.linkedin.com/in/bhavdeeparora/) • [Portfolio](https://bhavdeep.dev/)
-
-<div align="center">
-  <img src="https://raynecloudy.nekoweb.org/media/bar-cat.gif" alt="Oneko running">
-</div>
