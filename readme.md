@@ -10,6 +10,6 @@ const char* stack[] = {"C/C++", "Python", "Rust", "SQL", "Go"};
 **Focus**: Systems Programming, Artificial Intelligence, Machine Learning & Cybersecurity      
 **Offline**: Reading, Trekking, Lifting, Rugby, Woodworking
 
-[LinkedIn](https://www.linkedin.com/in/bhavdeeparora/) • [Portfolio](https://bhavdeep.dev/)
+[LinkedIn](https://www.linkedin.com/in/bhavdeeparora/) • [Portfolio](https://bhavdeeparora.dev/)
 
 
