@@ -5,7 +5,7 @@
 const char* stack[] = {"C/C++", "Python", "Rust", "SQL", "Go"};
 ```
 
-**Currently**: Building [Thunderhead](https://getthunderhead.vercel.app/) a proof-of-work bot mitigation middleware  
+**Currently**: Building [Groat](https://getgroat.vercel.app/), a self-hosted LLM proxy to reduce token expenditure      
 **Researching**: Undersampled MRI reconstruction via deep learning (fastMRI + U-Net)     
 **Focus**: Systems Programming, Artificial Intelligence, Machine Learning & Cybersecurity      
 **Offline**: Reading, Trekking, Lifting, Rugby, Woodworking
