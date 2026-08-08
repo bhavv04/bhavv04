@@ -10,7 +10,6 @@ const char* stack[] = {"C/C++", "Python", "Rust", "SQL", "Go"};
 **Focus**: Systems Programming, Artificial Intelligence, Machine Learning & Cybersecurity      
 **Offline**: Reading, Trekking, Lifting, Rugby, Woodworking
 
-[![Website Badge](https://img.shields.io/badge/website-bhavdeeparora.dev-blue)](https://bhavdeeparora.dev) ![Views Badge](https://komarev.com/ghpvc/?username=bhavv04&label=Profile%20views&color=0e75b6&style=flat)
-
+[LinkedIn](https://www.linkedin.com/in/bhavdeeparora/) • [Portfolio](https://bhavdeeparora.dev/)
 
 
