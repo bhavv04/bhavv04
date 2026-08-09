@@ -1,5 +1,5 @@
-**Bhavdeep Arora, Systems Focused Software Engineer**              
-*Focused on low-level systems, security tooling & applied ML*
+**Hi, I'm Bhavdeep Arora**              
+*Focused on data science & applied ML*
 
 ```c
 const char* stack[] = {"C/C++", "Python", "Rust", "SQL", "Go"};
