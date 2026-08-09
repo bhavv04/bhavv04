@@ -1,4 +1,4 @@
-**Hi, I'm Bhavdeep Arora** 🐻              
+**Hi, I'm Bhavdeep Arora** 🧸              
 *Focused on data science & applied ML*
 
 ```c
