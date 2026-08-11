@@ -1,4 +1,4 @@
-# Hi, I'm Bhavdeep Arora 🧸
+### Hi, I'm Bhavdeep Arora 🧸
 
 I like building things I use, mostly in Rust & Go.
 
