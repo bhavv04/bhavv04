@@ -9,4 +9,4 @@ currently learning the fundamentals from [deep learning](https://www.deeplearnin
 also passionate about environmental sustainability and medical engineering. 
 
 mostly into reading, hiking or anything nature-y, lifting & woodworking  
-[my website](https://bhavdeeparora.dev)
+see more of my stuff at [my website](https://bhavdeeparora.dev) 
