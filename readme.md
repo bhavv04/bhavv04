@@ -1,6 +1,7 @@
 ### Hi, I'm Bhavdeep Arora 🧸
 
-I like building things I use, mostly in Rust & Go.
+building tools, infrastructure, and things that scratch my own itch, mostly in [Rust](https://rust-lang.org/) & [Go](https://go.dev/)    
+interested in systems, machine learning, distributed systems and data science
 
 working on [groat](https://getgroat.vercel.app/), a self-hosted LLM proxy that cuts token expenditure                                
 developing neural networks for undersampled MRI reconstruction (fastMRI)
