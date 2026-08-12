@@ -1,6 +1,6 @@
 ### Hi, I'm Bhavdeep Arora 🧸
 
-building tools, infrastructure, and things that scratch my own itch, mostly in [Rust](https://rust-lang.org/) & [Go](https://go.dev/)    
+building tools, infrastructure, and whatever I can use, mostly in [Rust](https://rust-lang.org/) & [Go](https://go.dev/)    
 interested in systems, machine learning, distributed systems and data science
 
 working on [groat](https://getgroat.vercel.app/), a self-hosted LLM proxy that cuts token expenditure                                
@@ -10,4 +10,4 @@ currently learning the fundamentals from [deep learning](https://www.deeplearnin
 also passionate about environmental sustainability and medical engineering. 
 
 mostly into reading, hiking or anything nature-y, lifting & woodworking  
-see more of my stuff at [my website](https://bhavdeeparora.dev) 
+see more of what I do at [my website](https://bhavdeeparora.dev) 
